@@ -1,1 +1,3 @@
 cpuminer-config.h
+*.sdf
+*.suo
